@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Ampil1/Ampil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ampil-verma-1814b9122/ampilkumarverma@gmail.com
 - 😄 Pronouns: Ampil
 - ⚡ Fun fact: No magic  in the software everything is done with code reason.
--->
