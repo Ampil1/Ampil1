@@ -23,14 +23,12 @@ A passionate Backend developer/web developer from India.
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
 <h2 align="center">💫  About Me </h2>
-- 🔭 I’m currently working on NodeJs,Nestjs,ExpressJs, Mongodb,postgreSQl
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with NodeJs
-- 💬 Ask me about NodeJs TypeScript,Mongodb,NestJs,ExpressJs
-- 📫 How to reach me: ampil-verma-1814b9122/ampilkumarverma@gmail.com
-- 😄 Pronouns: Ampil
-- ⚡ Fun fact: No magic  in the software everything is done with code level.
+ - 🔭 I’m currently working on NodeJs,Nestjs,ExpressJs, Mongodb,postgreSQl.<br></br>
+- 👯 I’m looking to collaborate on Software development.<br></br>
+- 💬 Ask me about NodeJs TypeScript,Mongodb,NestJs,ExpressJs<br></br>
+- 📫 How to reach me: ampil-verma-1814b9122/ampilkumarverma@gmail.com<br></br>
+- 😄 Pronouns: Ampil<br></br>
+- ⚡ Fun fact: No magic  in the software everything is done with code level.<br></br>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  <br />
 
